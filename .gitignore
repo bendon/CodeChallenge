@@ -4,4 +4,3 @@
 specs/test*
 package-lock.json
 .env
-variables.js
